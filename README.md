@@ -1,2 +1,2 @@
 # hello-world
-its my practice repoistory
+print "hello world"
